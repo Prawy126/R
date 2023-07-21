@@ -1,0 +1,24 @@
+[1] "ćw.1 Narysuj histogram swojej wybranej zmiennej liczbowej z ćwiczeń 3"
+[1] "wykres z zaznaczonymi punkatami"
+[1] "wykres słupkowy pionowy"
+[1] "wykres słupkowy poziomy"
+[1] "ggplot(M, aes(x=A))+ geom_histogram(bins = 10)"
+[1] "p<-ggplot(M, aes(x=A))"
+[1] "p+geom_histogram(bins = 10)"
+[1] "p+stat_bin(geom=point, binwidth=10)"
+[1] "p + stat_bin(geom=line, binwidth=10)"
+[1] "p + stat_bin(geom=line,binwidth=10,color=Red)+ stat_bin(geom=point,binwidth=10,color=Blue)+ggtitle(rozklad)+xlab(wartości zmiennej A)+ylab(ilość w klasach)"
+[1] "ćw2. przedstaw rozkład cechy nieliczbowej z ćwiczeń 3"
+[1] "słupki"
+
+ a  b 
+ 7 13 
+  name il
+1    a  7
+2    b 13
+[1] "koła"
+[1] "ćw 3. narysuj wykres rozkładu dwóch zmiennych ilościowych"
+[1] "rozkład punktów"
+[1] "linia łącząca"
+[1] "ćw4 przedstaw zależność dwóch zmiennych liczbowych z ćw3 oraz wybranej zmiennej jakościowej"
+[1] "zależność liniowa z punktami zmiennej B i pasem zmian możliwych przebiegu zależności"

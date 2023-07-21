@@ -1,0 +1,23 @@
+[1] "zadanie 1 - zadaj dwa wektory \nliczbowe A i B \n( o co najmniej 10 elementach)\nnast�pnie oblicz A+B, 2A+B, \nwyznacz najmniejsz� i najwi�ksz� warto��"
+[1] "zadanie 2 - zadaj wektor nieliczbowy \no co najmniej dw�ch r�nych elementach \na nast�pnie wyznacz liczebno�� i cz�sto�� odpowiedzi"
+[1] "zadanie 3 stw�rz p�tl� wypisuj�c� \npierwsze 10 liczb nieparzystych"
+[1] "zadanie 1:"
+[1] 21.0  9.0 11.0 17.0 14.0  6.8 11.0 23.0
+[1] 31.0 12.5 16.0 25.0 20.0 10.2 16.0 38.0
+[1] 3.4
+[1] 3.4
+[1] 11
+[1] 15
+[1] "zadanie 2: "
+KN
+A N T 
+2 4 6 
+KN
+        A         N         T 
+0.1666667 0.3333333 0.5000000 
+[1] "zadanie 3:"
+[1] 1
+[1] 3
+[1] 5
+[1] 7
+[1] 9
